@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PatientenDatenModelStoreContainer" CdmEntityContainer="PatientenDatenEntities">
+    <EntitySetMapping Name="Patienten">
+      <EntityTypeMapping TypeName="PatientenDatenModel.Patienten">
+        <MappingFragment StoreEntitySet="Patienten">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Vorname" ColumnName="Vorname" />
+          <ScalarProperty Name="Nachname" ColumnName="Nachname" />
+          <ScalarProperty Name="Geschlecht" ColumnName="Geschlecht" />
+          <ScalarProperty Name="Geburtsdatum" ColumnName="Geburtsdatum" />
+          <ScalarProperty Name="Krankenkasse" ColumnName="Krankenkasse" />
+          <ScalarProperty Name="Versicherungsnummer" ColumnName="Versicherungsnummer" />
+          <ScalarProperty Name="PLZ_Ort" ColumnName="PLZ_Ort" />
+          <ScalarProperty Name="Straße_HausNr" ColumnName="Straße_HausNr" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Besonderheiten" ColumnName="Besonderheiten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Termine">
+      <EntityTypeMapping TypeName="PatientenDatenModel.Termine">
+        <MappingFragment StoreEntitySet="Termine">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PatientenId" ColumnName="PatientenId" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Uhrzeit" ColumnName="Uhrzeit" />
+          <ScalarProperty Name="Beschreibung" ColumnName="Beschreibung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

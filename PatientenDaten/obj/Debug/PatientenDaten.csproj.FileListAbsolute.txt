@@ -1,0 +1,209 @@
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EntityFramework.dll
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EPPlus.dll
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EntityFramework.xml
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\bin\Debug\EPPlus.xml
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.Form1.resources
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+C:\Users\de006312\Source\Repos\PatientenDaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+C:\Users\de006312\Source\Repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EntityFramework.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EPPlus.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EntityFramework.xml
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\EPPlus.xml
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\MetroFramework.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+F:\ITS\Özlü\Patientendaten - Kopie1\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+C:\Users\de006304\source\repos\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+C:\Users\de006312\Desktop\Berufsschule\SAEL\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+F:\ITS\Özlü\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminAnlegen.resources
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+F:\ITS\Schneider\Patientendaten\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITS\Schneider\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csprojAssemblyReference.cache
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+F:\ITS\Schneider\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminVerwaltung.resources
+F:\ITS\Özlü\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminVerwaltung.resources
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.AssemblyReference.cache
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.SuggestedBindingRedirects.cache
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminVerwaltung.resources
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+D:\Betrieb\ITS\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe.config
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.exe
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\PatientenDaten.pdb
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EPPlus.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.xml
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\bin\Debug\EPPlus.xml
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Patienten_Verwaltung.resources
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.Properties.Resources.resources
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.TerminVerwaltung.resources
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.GenerateResource.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.csproj.CopyComplete
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.exe
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\Patientendaten\PatientenDaten\obj\Debug\PatientenDaten.pdb
